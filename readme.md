@@ -1,6 +1,6 @@
 # Laravel Multi Domain Setup
 
-This is a simple Laravel 4.2 project that demonstrates accessing an **admin** and **client** domain of a site where each domain needs to have separate **routes**, **views**, **controllers**, etc.
+This is a simple Laravel 4.2 project that demonstrates accessing an **admin** and **client** domain of a site where each domain needs to have separate **routes**, **views**, **controllers**, etc, but be pointed to the same **app**.
 
 ## REQUIREMENTS
 
